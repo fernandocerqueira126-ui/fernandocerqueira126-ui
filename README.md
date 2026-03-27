@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Fernando+Cerqueira.;Tenho+45+anos;Sou+do+Rio+de+Janeiro,+RJ;Estudante+de+Python+e+E-commerce;Seja+Bem-vindo%21+:%29" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <h3>🐍 Minha contribuição:</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandocerqueira126-ui/fernandocerqueira126-ui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandocerqueira126-ui/fernandocerqueira126-ui/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandocerqueira126-ui/fernandocerqueira126-ui/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 - 🛒 Trabalho com **E-commerce** - 🐍 Estudando **Python** - 🌍 Instagram: [@fernando_drop](https://www.instagram.com/fernando_drop/)  
 - 📧 **Email:** contatodropfriends@gmail.com  
 - 👨 Pronomes: Ele/Dele
@@ -11,8 +22,8 @@
 ---
 
 <div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fernandocerqueira126-ui&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Stats" /> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocerqueira126-ui&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandocerqueira126-ui&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocerqueira126-ui&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -24,7 +35,6 @@
 <div align="center">
   <a href="https://www.instagram.com/fernando_drop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fernando-cerqueira-3b4999193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://monocard.me/fernando_drop" target="_blank"><img src="https://img.shields.io/badge/Monocard-000000?style=for-the-badge&logo=monocard&logoColor=white"></a>
   <a href="mailto:contatodropfriends@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
