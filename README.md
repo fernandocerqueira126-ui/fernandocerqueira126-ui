@@ -61,7 +61,7 @@
   <a href="https://monocard.me/fernando_drop" target="_blank">
     <img src="https://img.shields.io/badge/Monocard-000000?style=for-the-badge&logo=monocard&logoColor=white">
   </a>
-  <a href="mailto:contatodropfriends@gmail.com" target="_blank">
+  <a href="mailto:fernandocerqueira126@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
