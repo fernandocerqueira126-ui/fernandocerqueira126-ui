@@ -50,7 +50,7 @@
 
 <div align="center">
   <p><b>Visitantes</b></p>
-  <img src="https://profile-counter.glitch.me/fernandocerqueira126-ui/count.svg" alt="Visitantes" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffernandocerqueira126-ui&count_bg=%2300BFBF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visualizacoes&edge_flat=false" alt="Visitantes" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
