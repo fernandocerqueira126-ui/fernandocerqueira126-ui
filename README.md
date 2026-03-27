@@ -16,7 +16,7 @@
 ---
 
 - 🛒 Trabalho com **E-commerce** - 🐍 Estudando **Python** - 🌍 Instagram: [@fernando_drop](https://www.instagram.com/fernando_drop/)  
-- 📧 **Email:** contatodropfriends@gmail.com  
+- 📧 **Email:** fernandocerqueira126@gmail.com  
 - 👨 Pronomes: Ele/Dele
 
 ---
@@ -33,16 +33,4 @@
 ---
 
 <div align="center">
-  <a href="https://www.instagram.com/fernando_drop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/fernando-cerqueira-3b4999193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:contatodropfriends@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <p><b>Visitantes</b></p>
-  <img src="https://profile-counter.glitch.me/fernandocerqueira126-ui/count.svg" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
+  <a href="https://www.instagram.com/fernando_drop/" target="_blank"><img src="
