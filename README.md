@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Fernando+Cerqueira.;Tenho+45+anos;Sou+do+Rio+de+Janeiro,+RJ;Estudante+de+Python+e+E-commerce;Seja+Bem-vindo%21+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Fernando+Cerqueira.;Especialista+em+E-commerce;Desenvolvedor+Python+e+Automações;Seja+Bem-vindo%21+:%29" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,21 +16,32 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
+
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  
+  <br>
+  
   <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white">
 </div>
 
 ---
 
-- 🛒 Trabalho com **E-commerce**
-- 🐍 Estudando **Python**
-- 🌍 Instagram: [@fernando_drop](https://www.instagram.com/fernando_drop/)  
-- 📧 **Email:** fernandocerqueira126@gmail.com  
-- 👨 Pronomes: Ele/Dele
+### 🚀 Sobre mim
+- 🛒 Atuando fortemente no ecossistema de **E-commerce**.
+- 🤖 Especialista em automações de fluxo com **n8n** e **Agentes de IA**.
+- 🌍 Rio de Janeiro, Brasil.
+- 📧 Contato: [fernandocerqueira126@gmail.com](mailto:fernandocerqueira126@gmail.com)
 
 ---
 
@@ -43,10 +54,6 @@
 <div align="center">
   <a href="https://www.instagram.com/fernando_drop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fernando-cerqueira-3b4999193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:fernandocerqueira126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-<br>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
