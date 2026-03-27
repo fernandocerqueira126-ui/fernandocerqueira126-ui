@@ -15,16 +15,24 @@
 
 ---
 
-- 🛒 Trabalho com **E-commerce** - 🐍 Estudando **Python** - 🌍 Instagram: [@fernando_drop](https://www.instagram.com/fernando_drop/)  
+### 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+---
+
+- 🛒 Trabalho com **E-commerce**
+- 🐍 Estudando **Python**
+- 🌍 Instagram: [@fernando_drop](https://www.instagram.com/fernando_drop/)  
 - 📧 **Email:** fernandocerqueira126@gmail.com  
 - 👨 Pronomes: Ele/Dele
 
 ---
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandocerqueira126-ui&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocerqueira126-ui&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernandocerqueira126-ui&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" />
@@ -33,4 +41,16 @@
 ---
 
 <div align="center">
-  <a href="https://www.instagram.com/fernando_drop/" target="_blank"><img src="
+  <a href="https://www.instagram.com/fernando_drop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fernando-cerqueira-3b4999193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:fernandocerqueira126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <p><b>Visitantes</b></p>
+  <img src="https://profile-counter.glitch.me/fernandocerqueira126-ui/count.svg" alt="Visitantes" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
